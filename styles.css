@@ -14,6 +14,8 @@ body {
 
 .title, .card-title {
     text-align: center;
+    font-weight: 850;
+    font-style: italic;
 }
 
 a {
