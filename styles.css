@@ -1,0 +1,21 @@
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+    background: #1C1D23;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-title, li, .title {
+    background-color: #273583;
+    border: 2px solid #ecb561;
+    padding: 8px;
+}
+
+.title, .card-title {
+    text-align: center;
+}
+
+a {
+    color: #FFFFFF;
+}
