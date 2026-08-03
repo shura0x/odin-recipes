@@ -1,12 +1,12 @@
-* {
-    outline: 3px rgb(245, 174, 43);
-}
+/* * {
+    outline: 2px solid rgb(245, 174, 43);
+} */
 
 body {
     background: #1C1D23;
     color: #FFFFFF;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-left: 20px;
+    margin-left: 15px;
 }
 
 img {
@@ -40,8 +40,13 @@ img {
     padding: 10px;
 }
 
+ul, ol {
+    background-color: #364153;
+}
+
 li {
     padding: 3px;
+    background-color: #364153;  
 }
 
 strong {
